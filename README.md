@@ -3,7 +3,7 @@
 🔭 I’m currently working on improving my coding skills . <br>👯 I’m looking to collaborate on beginner-friendly projects . <br>🤝 I’m looking for help with Data Structures and Algorithms . <br>🌱 I’m currently learning C++, DSA, and Git . <br>💬 Ask me about basic programming and problem solving . <br>⚡ Fun fact: I debug more than I code .
 
 
-# 🌐 Socials:
+## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sanju_kapoor) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kapoor.sanju04@gmail.com) 
 
 ##💻 Tech Stack:
