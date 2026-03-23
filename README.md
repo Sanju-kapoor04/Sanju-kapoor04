@@ -1,7 +1,7 @@
 
 
-#
-Hi there 
+
+#Hi there 
 # About Me:
 🔭 I’m currently working on improving my coding skills . <br>👯 I’m looking to collaborate on beginner-friendly projects . <br>🤝 I’m looking for help with Data Structures and Algorithms . <br>🌱 I’m currently learning C++, DSA, and Git . <br>💬 Ask me about basic programming and problem solving . <br>⚡ Fun fact: I debug more than I code 
 
